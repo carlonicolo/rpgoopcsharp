@@ -1,0 +1,16 @@
+C:\Users\Karlitos\git\rpgoopcsharp\bin\Debug\net5.0\rpgoopcsharp.exe
+C:\Users\Karlitos\git\rpgoopcsharp\bin\Debug\net5.0\rpgoopcsharp.deps.json
+C:\Users\Karlitos\git\rpgoopcsharp\bin\Debug\net5.0\rpgoopcsharp.runtimeconfig.json
+C:\Users\Karlitos\git\rpgoopcsharp\bin\Debug\net5.0\rpgoopcsharp.runtimeconfig.dev.json
+C:\Users\Karlitos\git\rpgoopcsharp\bin\Debug\net5.0\rpgoopcsharp.dll
+C:\Users\Karlitos\git\rpgoopcsharp\bin\Debug\net5.0\ref\rpgoopcsharp.dll
+C:\Users\Karlitos\git\rpgoopcsharp\bin\Debug\net5.0\rpgoopcsharp.pdb
+C:\Users\Karlitos\git\rpgoopcsharp\obj\Debug\net5.0\rpgoopcsharp.csproj.AssemblyReference.cache
+C:\Users\Karlitos\git\rpgoopcsharp\obj\Debug\net5.0\rpgoopcsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karlitos\git\rpgoopcsharp\obj\Debug\net5.0\rpgoopcsharp.AssemblyInfoInputs.cache
+C:\Users\Karlitos\git\rpgoopcsharp\obj\Debug\net5.0\rpgoopcsharp.AssemblyInfo.cs
+C:\Users\Karlitos\git\rpgoopcsharp\obj\Debug\net5.0\rpgoopcsharp.csproj.CoreCompileInputs.cache
+C:\Users\Karlitos\git\rpgoopcsharp\obj\Debug\net5.0\rpgoopcsharp.dll
+C:\Users\Karlitos\git\rpgoopcsharp\obj\Debug\net5.0\ref\rpgoopcsharp.dll
+C:\Users\Karlitos\git\rpgoopcsharp\obj\Debug\net5.0\rpgoopcsharp.pdb
+C:\Users\Karlitos\git\rpgoopcsharp\obj\Debug\net5.0\rpgoopcsharp.genruntimeconfig.cache
